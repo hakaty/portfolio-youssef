@@ -74,8 +74,9 @@ const PROJECTS = [
 ];
 
 const EXPERIENCE = [
-  { period: "5/2024 — 6/2024", role: "Stagiaire IT", org: "IWACO · Casablanca", desc: "Développement d'une application web full stack pour la gestion de documentation. Conception d'architecture logicielle, analyse des besoins, gestion de projet IT et assurance qualité." },
   { period: "5/2024 — 6/2024", role: "Stagiaire IT", org: "Artiflow · Casablanca", desc: "Développement d'une couche d'abstraction relationnelle (CRUD, relations, validation). Optimisation des performances par cache et indexation SQL avec traçabilité complète." },
+  { period: "4/2025 — 6/2025", role: "Stagiaire IT", org: "IWACO · Casablanca", desc: "Développement d'une application web full stack pour la gestion de documentation. Conception d'architecture logicielle, analyse des besoins, gestion de projet IT et assurance qualité." },
+
 ];
 
 const EDUCATION = [
